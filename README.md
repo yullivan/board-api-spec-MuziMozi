@@ -91,7 +91,6 @@
     - Body Parameters
       - title `String` 게시글 제목
       - content `String` 게시글 내용
-      - boardId `Number` 게시판 ID (꼭 필요할까?)
 - 삭제
     - `DELETE`
     - Path
